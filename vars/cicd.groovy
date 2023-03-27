@@ -5,5 +5,5 @@ def newgit(repo)
 
 def newMaven()
 {
-  sh 'Mvn package'
+  sh 'mvn package'
 }
